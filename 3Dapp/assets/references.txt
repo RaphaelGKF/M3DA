@@ -1,0 +1,22 @@
+References
+
+1. W3Schools - https://www.w3schools.com/
+
+2. Maxon Cinema4D 
+
+3. X3D/X3DOM
+
+4.Mobile 3D Applications:920G5 Module Tutorials provided by the University of Sussex.
+
+5.X3DOM Model Functionality (Cameras, Lighting, Animation): Referenced from Live Feedback site.
+
+Libraries used:
+- Javascript : https://www.javascript.com/
+- Bootstrap : https://getbootstrap.com/
+- Jquery: https://jquery.com/
+- Popper: https://popper.js.org/
+- FancyBox: http://fancybox.net/
+- FontAwesome: https://fontawesome.com/
+- GoogleFonts: https://fonts.google.com/
+- Php: https://www.php.net/
+
