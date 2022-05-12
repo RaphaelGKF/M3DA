@@ -6,3 +6,13 @@ They are the product of my own labour except where indicated in the web page con
 and distributed provided the source is acknowledged.
 
 Email: ka479@sussex.ac.uk
+
+Libraries used:
+- Javascript : https://www.javascript.com/
+- Bootstrap : https://getbootstrap.com/
+- Jquery: https://jquery.com/
+- Popper: https://popper.js.org/
+- FancyBox: http://fancybox.net/
+- FontAwesome: https://fontawesome.com/
+- GoogleFonts: https://fonts.google.com/
+- Php: https://www.php.net/
